@@ -2,6 +2,12 @@
   "expo": {
     "name": "dotlist",
     "slug": "dotlist",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "dev.chrisyates.dotlist"
+    },
+    "android": {
+      "package": "dev.chrisyates.dotlist"
+    }
   }
 }
