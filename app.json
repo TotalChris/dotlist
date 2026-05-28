@@ -8,6 +8,14 @@
     },
     "android": {
       "package": "dev.chrisyates.dotlist"
-    }
+    },
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": ["./assets/fonts/MaterialSymbolsOutlined-Regular.ttf"]
+        }
+      ]
+    ]
   }
 }
